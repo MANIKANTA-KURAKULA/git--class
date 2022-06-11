@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 this is image.file
 this is written dev
-this is good
+=======
+this is image.file
+this is wrote in master branch: 
+>>>>>>> master
